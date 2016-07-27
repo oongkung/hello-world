@@ -8,3 +8,7 @@ This is for test.
     * asdf
 2.  choice 2
 3.  choice 3
+
+- [x] asdf
+- [] zxcv
+- [] qwer
