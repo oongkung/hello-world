@@ -1,4 +1,6 @@
 # hello-world
 This is for test.
 
-Test edit README.md
+1. choice 1
+2. choice 2
+3. choice 3
