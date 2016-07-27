@@ -10,5 +10,5 @@ This is for test.
 3.  choice 3
 
 - [x] asdf
-- [] zxcv
-- [] qwer
+- [ ] zxcv
+- [ ] qwer
